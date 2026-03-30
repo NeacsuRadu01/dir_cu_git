@@ -1,1 +1,1 @@
-print('fisier1')
+print('fisier1-main')
